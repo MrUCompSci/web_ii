@@ -1,0 +1,28 @@
+* {
+	padding: 0; margin: 0;	
+}
+
+.parent {
+    background-color: firebrick;
+    margin-top: 10px;
+}
+#content1 {
+	float: left;
+	width: 50%;
+}
+#content2 {
+	float: left;
+	width: 50%;   
+}
+
+img {
+    max-width: 90%;
+    margin-left: 5%;
+}
+
+p {
+    max-width: 90%;
+    font-size: 18px;
+    line-height: 3em;
+    margin-right: 5%
+}
